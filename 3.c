@@ -1,2 +1,3 @@
-if（condition）//不符合
+if（condition）{
   executeSomething（）;
+}
